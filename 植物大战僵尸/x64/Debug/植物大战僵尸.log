@@ -1,0 +1,39 @@
+﻿  main.cpp
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(94,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(181,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(207,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(210,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(209,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(188,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(255,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(257,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(258,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(278,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(278,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(279,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(279,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(281,27): warning C4305: “=”: 从“double”到“float”截断
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(347,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(347,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(357,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(358,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(367,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\main.cpp(369,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  tools.cpp
+E:\program\我不疯谁疯\植物大战僵尸\tools.cpp(93,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  vector2.cpp
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\program\我不疯谁疯\植物大战僵尸\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  植物大战僵尸.vcxproj -> E:\program\我不疯谁疯\x64\Debug\植物大战僵尸.exe
